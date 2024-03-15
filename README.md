@@ -45,10 +45,8 @@
   <a href="https://www.instagram.com/leo_tolledo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href= "https://linkedin.com/in/leonardo-toledo0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  	<a href = "mailto:leotoledo010@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.leonardotoledodev.tech/" target="_blank">
-    <img src='https://img.shields.io/badge/Protifolio-%27b4dc?style=for-the-badge&logo=About.me&logoColor=white' target="_blank">
-</a>
-  
+[![Badge](https://img.shields.io/badge/Protifolio-%27b4dc?style=for-the-badge&logo=About.me&logoColor=white)](https://www.leonardotoledodev.tech/)
+
 </div>
           
 
