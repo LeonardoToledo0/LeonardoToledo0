@@ -2,7 +2,7 @@
 
 - 🤖 Apaixonado por tecnologia e desenvolvimento de software, estou sempre em busca de novos desafios e aprendizados. Atualmente, estou focado em Desenvolvimento Web e Mobile, buscando contribuir para projetos open source e expandir meus conhecimentos.
 
-- 💻 Minha jornada na programação começou há 2 anos e desde então procuro desenvolver diversos projetos, explorando diferentes linguagens e frameworks.
+- 💻 Minha jornada na programação começou em meados de 2021 e desde então procuro desenvolver diversos projetos, explorando diferentes linguagens e frameworks.
 
 - 🌐 Além do desenvolvimento de software, também me interesso por Administração de redes e configuração de roteadores e switches Cisco.
 
