@@ -87,7 +87,7 @@ Sou um desenvolvedor Full Stack com experiência sólida construindo **soluçõe
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=LeonardoToledo0&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=LeonardoToledo0&theme=tokyonight&count_private=true" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoToledo0&layout=compact&theme=tokyonight" />
 </p>
 
