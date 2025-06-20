@@ -40,7 +40,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 #### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-336791?logo=swift)
 
 #### ⚙️ Back-end
 ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
@@ -56,7 +56,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
+![Redis](https://img.shields.io/badge/-Redis-336791?logo=redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?logo=firebase)
 
 
