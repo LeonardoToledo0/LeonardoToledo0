@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Toledo</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Dev+%7C+Blockchain+Builder;Mobile+%2B+Web+%2B+PoS+Infra;React%2C+Go%2C+Solidity+%26+mais..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full+Stack+Dev+%7C+Blockchain+Builder;Mobile+%2B+Web+%2B+PoS+Infra;React%2C+Go%2C+Solidity+%26+mais..." alt="Typing SVG" />
 </p>
 
 <p align="center">
