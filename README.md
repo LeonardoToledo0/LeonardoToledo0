@@ -48,12 +48,17 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 #### 🛢️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+
 
 #### 🧬 Blockchain & Web3
 ![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity)
