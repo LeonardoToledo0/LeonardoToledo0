@@ -57,7 +57,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-000000?logo=firebase)
 
 
 #### 🧬 Blockchain & Web3
@@ -67,7 +67,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ![PoS](https://img.shields.io/badge/-Proof%20of%20Stake-6A1B9A)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-FF5722)
 ![ERC20](https://img.shields.io/badge/-ERC20-009688)
-![Binance Smart Chain](https://img.shields.io/badge/-BSC-F3BA2F?logo=binance)
+![Binance Smart Chain](https://img.shields.io/badge/-BSC-000000?logo=binance)
 
 #### ☁️ DevOps / Infra
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
