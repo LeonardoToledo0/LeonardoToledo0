@@ -36,7 +36,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ![React](https://img.shields.io/badge/-React-6A1B9A?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-363636?logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-336791??logo=tailwind-css)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-FF5722?logo=tailwind-css)
 
 #### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
