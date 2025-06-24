@@ -33,29 +33,29 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ### ⚙️ Tech Stack
 
 #### 💻 Front-end
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![React](https://img.shields.io/badge/-React-6A1B9A?logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css)
+![Vue.js](https://img.shields.io/badge/-Vue.js-363636?logo=vue.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-336791??logo=tailwind-css)
 
 #### 📱 Mobile
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react)
 ![Swift](https://img.shields.io/badge/-Swift-336791?logo=swift)
 
 #### ⚙️ Back-end
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go)
-![Gin](https://img.shields.io/badge/-Gin-00ADD8?logo=go)
+![Go](https://img.shields.io/badge/-Go-F2A900?logo=go)
+![Gin](https://img.shields.io/badge/-Gin-FF5722?logo=go)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
 ![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
 
 #### 🛢️ Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-F2A900?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E0234E?logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)
+![Supabase](https://img.shields.io/badge/-Supabase-092E20?logo=supabase)
 ![Redis](https://img.shields.io/badge/-Redis-336791?logo=redis)
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?logo=firebase)
 
@@ -70,7 +70,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ![Binance Smart Chain](https://img.shields.io/badge/-BSC-000000?logo=binance)
 
 #### ☁️ DevOps / Infra
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
+![Docker](https://img.shields.io/badge/-Docker-6A1B9A?logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
