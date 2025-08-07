@@ -63,7 +63,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="60" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="60" style="filter: invert(100%)" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" />
@@ -128,9 +127,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" />
     </a>
-    <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" style="background-color: black; padding: 5px; border-radius: 6px; display: inline-block;">
-<i class="devicon-vercel-original-wordmark"></i>
-        </a>
     <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" />
     </a>
@@ -140,7 +136,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
   </div>
 </div>
 ---
-
+---
 
 ### 💼 Principais Projetos
 
