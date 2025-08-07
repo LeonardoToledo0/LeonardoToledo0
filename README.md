@@ -34,98 +34,123 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ### ⚙️ Tech Stack
 
 #### 💻 Front-end
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" />
+
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+  <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="60" />
+  </div>
 </div>
+
 
 
 
 #### 📱 Mobile
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="60" />
+
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+  <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="60" />
+  </div>
 </div>
+
 
 
 
 #### ⚙️ Back-end
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" />
+
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+  <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" />
+  </div>
 </div>
+
 
 
 
 #### 🛢️ Banco de Dados
-<div style="display: flex; gap: 15px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="60" style="filter: invert(100%);" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" />
+
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+  <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" alt="SQLite" width="60" />
+    <img src="https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase" height="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="60" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" />
+  </div>
 </div>
+
 
 
 
 
 #### 🧬 Blockchain & Web3
-<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
-  <a href="https://docs.soliditylang.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" />
-  </a>
-  <a href="https://geth.ethereum.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Geth" width="60" />
-  </a>
-  <a href="https://docs.teku.consensys.net" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Teku" width="60" />
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Proof_of_stake" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
-    Proof of Stake
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Smart_contract" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
-    Smart Contracts
-  </a>
-  <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
-    ERC20
-  </a>
-  <a href="https://www.binance.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg" alt="Binance Smart Chain" width="60" />
-  </a>
+
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+  <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+    <a href="https://docs.soliditylang.org" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" />
+    </a>
+    <a href="https://geth.ethereum.org" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Geth" width="60" />
+    </a>
+    <a href="https://docs.teku.consensys.net" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Teku" width="60" />
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Proof_of_stake" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
+      Proof of Stake
+    </a>
+    <a href="https://en.wikipedia.org/wiki/Smart_contract" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
+      Smart Contracts
+    </a>
+    <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
+      ERC20
+    </a>
+    <a href="https://www.binance.org" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg" alt="Binance Smart Chain" width="60" />
+    </a>
+  </div>
 </div>
+
 
  
 
 
 #### ☁️ DevOps / Infra
-<div style="display: flex; gap: 15px; align-items: center;">
-  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" />
-  </a>
-  <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" />
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" />
-  </a>
-  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="60" />
-  </a>
+
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+  <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+    <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
+    </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" />
+    </a>
+    <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" />
+    </a>
+    <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" />
+    </a>
+    <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="60" />
+    </a>
+  </div>
 </div>
+
 
 
 
