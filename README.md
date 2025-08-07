@@ -4,17 +4,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=780&lines=Full+Stack+Dev+%7C+Blockchain+Builder+%7C+PoS+Infra;Smart+Contracts+%2F+Wallets+%2F+Gateways+Web3;React+Native+%7C+Vue+%7C+Next.js+%7C+Go+%7C+Solidity;Mobile%2C+Web%2C+Backend%2C+DevOps+%26+Infra+Completa" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/leonardo-toledo0/">
-    <img src="https://img.shields.io/badge/LinkedIn-LeonardoToledo0-blue?logo=linkedin" />
+<p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+  <a href="https://www.linkedin.com/in/leonardo-toledo0/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="60" />
   </a>
-  <a href="mailto:leotoledo010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-leotoledo010%40gmail.com-red?logo=gmail" />
+  <a href="mailto:leotoledo010@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="60" />
   </a>
-  <a href="https://github.com/LeonardoToledo0">
-    <img src="https://img.shields.io/github/followers/LeonardoToledo0?style=social" />
+  <a href="https://github.com/LeonardoToledo0" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="60" />
   </a>
 </p>
+
 
 ---
 
@@ -33,19 +34,25 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ### ⚙️ Tech Stack
 
 #### 💻 Front-end
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg)
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)
-![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg)
-![Html](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
-![Css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
-![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg)
-![Material UI](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg)
-![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" alt="Material UI" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="60" />
+</div>
+
 
 
 #### 📱 Mobile
-![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg)
-![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg)
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" alt="React Native" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="60" />
+</div>
+
 
 
 #### ⚙️ Back-end
@@ -58,32 +65,65 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 
 #### 🛢️ Banco de Dados
-[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com)
-[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org)
-[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com)
-[![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org)
-[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)](https://supabase.com)
-[![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)](https://redis.io)
-[![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)](https://firebase.google.com)
+<div style="display: flex; gap: 15px; align-items: center;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" alt="NestJS" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" width="60" style="filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" />
+</div>
+
 
 
 
 #### 🧬 Blockchain & Web3
-[![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)](https://docs.soliditylang.org)
-[![Geth](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg)](https://geth.ethereum.org)
-[![Teku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg)](https://docs.teku.consensys.net)
-[Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
-[Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract)
-[ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
-[![Binance Smart Chain](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg)](https://www.binance.org)
+<div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
+  <a href="https://docs.soliditylang.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" />
+  </a>
+  <a href="https://geth.ethereum.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Geth" width="60" />
+  </a>
+  <a href="https://docs.teku.consensys.net" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Teku" width="60" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Proof_of_stake" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
+    Proof of Stake
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Smart_contract" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
+    Smart Contracts
+  </a>
+  <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
+    ERC20
+  </a>
+  <a href="https://www.binance.org" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg" alt="Binance Smart Chain" width="60" />
+  </a>
+</div>
+
+ 
 
 
 #### ☁️ DevOps / Infra
-[![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com)
-[![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)](https://aws.amazon.com)
-[![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg)](https://vercel.com)
-[![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)](https://www.nginx.com)
-[![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/features/actions)
+<div style="display: flex; gap: 15px; align-items: center;">
+  <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" />
+  </a>
+  <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" />
+  </a>
+  <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" />
+  </a>
+  <a href="https://github.com/features/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub Actions" width="60" />
+  </a>
+</div>
+
 
 
 ---
