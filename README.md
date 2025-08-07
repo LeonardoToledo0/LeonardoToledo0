@@ -11,7 +11,11 @@
   <a href="mailto:leotoledo010@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="30" />
   </a>
+  <a href="https://wa.me/5511992971390" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="30" />
+  </a>
 </p>
+
 
 
 ---
@@ -138,6 +142,11 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 ---
 
+### 🛡️ EVM Chain Certification
+**Alchemy University**
+
+---
+
 ### 💼 Principais Projetos
 
 #### 🔹 **Oberion Chain**
@@ -153,6 +162,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 > Frontend + backend com autenticação OTP, fluxo completo de upgrade de nível on-chain, histórico e painel gerencial.
 
 ---
+
 
 ### 📫 Contato
 
