@@ -90,7 +90,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 #### 🧬 Blockchain & Web3
 
-<div style="max-width: 100%; display: inline-block;">
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <a href="https://docs.soliditylang.org" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" height="28" />
@@ -120,7 +120,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 #### ☁️ DevOps / Infra
 
-<div style="max-width: 100%; display: inline-block;">
+<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
