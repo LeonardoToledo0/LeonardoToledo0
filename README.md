@@ -12,8 +12,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="30" />
   </a>
   <a href="https://wa.me/5511992971390" target="_blank" rel="noopener noreferrer">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/whatsapp/whatsapp-original.svg" alt="WhatsApp" width="30" />
-  </a>
+   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28" />
+</a>
 </p>
 
 
