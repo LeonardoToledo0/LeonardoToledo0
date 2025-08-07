@@ -33,48 +33,58 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 ### ⚙️ Tech Stack
 
 #### 💻 Front-end
-![React](https://img.shields.io/badge/-React-6A1B9A?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js)
-![Vue.js](https://img.shields.io/badge/-Vue.js-363636?logo=vue.js)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-FF5722?logo=tailwind-css)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg)
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)
+![Vue.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg)
+![Html](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg)
+![Css](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg)
+![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg)
+![Material UI](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg)
+![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)
+
 
 #### 📱 Mobile
-![React Native](https://img.shields.io/badge/-React_Native-6A1B9A?logo=react)
-![Swift](https://img.shields.io/badge/-Swift-336791?logo=swift)
+![React Native](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg)
+![Swift](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg)
+
 
 #### ⚙️ Back-end
-![Go](https://img.shields.io/badge/-Go-F2A900?logo=go)
-![Gin](https://img.shields.io/badge/-Gin-FF5722?logo=go)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django)
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white)
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg)
+![NestJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg)
+![Express](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg)
+![Django](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
+![Swagger](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg)
+
 
 #### 🛢️ Banco de Dados
-![MySQL](https://img.shields.io/badge/-MySQL-363636?logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-009688?logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite)
-![Supabase](https://img.shields.io/badge/-Supabase-092E20?logo=supabase)
-![Redis](https://img.shields.io/badge/-Redis-336791?logo=redis)
-![Firebase](https://img.shields.io/badge/-Firebase-000000?logo=firebase)
+[![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)](https://www.mysql.com)
+[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org)
+[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com)
+[![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)](https://www.sqlite.org)
+[![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase)](https://supabase.com)
+[![Redis](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg)](https://redis.io)
+[![Firebase](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg)](https://firebase.google.com)
+
 
 
 #### 🧬 Blockchain & Web3
-![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity)
-![Geth](https://img.shields.io/badge/-Geth-F2A900?logo=ethereum)
-![Teku](https://img.shields.io/badge/-Teku-00BFFF?logo=ethereum)
-![PoS](https://img.shields.io/badge/-Proof%20of%20Stake-6A1B9A)
-![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-FF5722)
-![ERC20](https://img.shields.io/badge/-ERC20-009688)
-![Binance Smart Chain](https://img.shields.io/badge/-BSC-000000?logo=binance)
+[![Solidity](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg)](https://docs.soliditylang.org)
+[![Geth](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg)](https://geth.ethereum.org)
+[![Teku](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg)](https://docs.teku.consensys.net)
+[Proof of Stake](https://en.wikipedia.org/wiki/Proof_of_stake)
+[Smart Contracts](https://en.wikipedia.org/wiki/Smart_contract)
+[ERC20](https://ethereum.org/en/developers/docs/standards/tokens/erc-20/)
+[![Binance Smart Chain](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg)](https://www.binance.org)
+
 
 #### ☁️ DevOps / Infra
-![Docker](https://img.shields.io/badge/-Docker-6A1B9A?logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx)
-![CI/CD](https://img.shields.io/badge/-CI%2FCD-0A0A0A?logo=githubactions)
+[![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg)](https://www.docker.com)
+[![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg)](https://aws.amazon.com)
+[![Vercel](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg)](https://vercel.com)
+[![Nginx](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg)](https://www.nginx.com)
+[![GitHub Actions](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)](https://github.com/features/actions)
+
 
 ---
 
