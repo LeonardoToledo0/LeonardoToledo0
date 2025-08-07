@@ -110,20 +110,21 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     <a href="https://docs.teku.consensys.net" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Teku" width="60" />
     </a>
-    <a href="https://en.wikipedia.org/wiki/Proof_of_stake" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
-      Proof of Stake
+    <a href="https://en.wikipedia.org/wiki/Proof_of_stake" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Proof_of_Stake-6A1B9A?style=flat-square&logo=ethereum&logoColor=white" alt="Proof of Stake" height="28" />
     </a>
-    <a href="https://en.wikipedia.org/wiki/Smart_contract" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
-      Smart Contracts
+    <a href="https://en.wikipedia.org/wiki/Smart_contract" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-Smart_Contracts-FF5722?style=flat-square&logo=ethereum&logoColor=white" alt="Smart Contracts" height="28" />
     </a>
-    <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/" target="_blank" rel="noopener noreferrer" style="font-weight: bold; font-size: 14px; color: #333; text-decoration: none; display: flex; align-items: center;">
-      ERC20
+    <a href="https://ethereum.org/en/developers/docs/standards/tokens/erc-20/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/-ERC20-009688?style=flat-square&logo=ethereum&logoColor=white" alt="ERC20" height="28" />
     </a>
     <a href="https://www.binance.org" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg" alt="Binance Smart Chain" width="60" />
     </a>
   </div>
 </div>
+
 
 
 
