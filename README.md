@@ -35,7 +35,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 #### 💻 Front-end
 
-<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+<div style=" max-width: 100%; display: inline-block;">
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="60" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" />
