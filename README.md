@@ -129,8 +129,8 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" />
     </a>
     <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" style="background-color: black; padding: 5px; border-radius: 6px; display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" style="filter: invert(100%)" />
-</a>
+<i class="devicon-vercel-original-wordmark"></i>
+        </a>
     <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" />
     </a>
