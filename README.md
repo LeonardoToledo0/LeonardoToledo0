@@ -6,15 +6,16 @@
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center;">
   <a href="https://www.linkedin.com/in/leonardo-toledo0/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
   <a href="mailto:leotoledo010@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="30" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
   </a>
   <a href="https://wa.me/5511992971390" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28" />
-</a>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" height="28" />
+  </a>
 </p>
+
 
 
 
