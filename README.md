@@ -102,13 +102,13 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <a href="https://docs.soliditylang.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" />
+      <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" height="28" />
     </a>
     <a href="https://geth.ethereum.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Geth" width="60" />
+      <img src="https://img.shields.io/badge/-Geth-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Geth" height="28" />
     </a>
     <a href="https://docs.teku.consensys.net" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ethereum/ethereum-original.svg" alt="Teku" width="60" />
+      <img src="https://img.shields.io/badge/-Teku-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Teku" height="28" />
     </a>
     <a href="https://en.wikipedia.org/wiki/Proof_of_stake" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Proof_of_Stake-6A1B9A?style=flat-square&logo=ethereum&logoColor=white" alt="Proof of Stake" height="28" />
@@ -120,10 +120,11 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
       <img src="https://img.shields.io/badge/-ERC20-009688?style=flat-square&logo=ethereum&logoColor=white" alt="ERC20" height="28" />
     </a>
     <a href="https://www.binance.org" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/binance/binance-plain.svg" alt="Binance Smart Chain" width="60" />
+      <img src="https://img.shields.io/badge/-Binance_Smart_Chain-F0B90B?style=flat-square&logo=binance&logoColor=white" alt="Binance Smart Chain" height="28" />
     </a>
   </div>
 </div>
+
 
 
 
