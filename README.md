@@ -11,9 +11,6 @@
   <a href="mailto:leotoledo010@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" alt="Email" width="30" />
   </a>
-  <a href="https://github.com/LeonardoToledo0" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="30" />
-  </a>
 </p>
 
 
@@ -93,7 +90,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 #### 🧬 Blockchain & Web3
 
-<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+<div style="max-width: 100%; display: inline-block;">
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <a href="https://docs.soliditylang.org" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" height="28" />
@@ -123,7 +120,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 #### ☁️ DevOps / Infra
 
-<div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
+<div style="max-width: 100%; display: inline-block;">
   <div style="display: flex; gap: 15px; align-items: center; flex-wrap: wrap;">
     <a href="https://www.docker.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" />
@@ -131,9 +128,9 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     <a href="https://aws.amazon.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60" />
     </a>
-    <a href="https://vercel.com" target="_blank" rel="noopener noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" style="filter: invert(100%)" />
-    </a>
+    <a href="https://vercel.com" target="_blank" rel="noopener noreferrer" style="background-color: black; padding: 5px; border-radius: 6px; display: inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="60" style="filter: invert(100%)" />
+</a>
     <a href="https://www.nginx.com" target="_blank" rel="noopener noreferrer">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="Nginx" width="60" />
     </a>
