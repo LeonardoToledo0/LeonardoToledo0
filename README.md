@@ -47,11 +47,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
   </div>
 </div>
 ---
-
-
-
-
-
 #### 📱 Mobile
 
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
@@ -60,10 +55,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" alt="Swift" width="60" />
   </div>
 </div>
-
-
-
-
+---
 #### ⚙️ Back-end
 
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
@@ -76,10 +68,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" alt="Swagger" width="60" />
   </div>
 </div>
-
-
-
-
+---
 #### 🛢️ Banco de Dados
 
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
@@ -93,11 +82,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" />
   </div>
 </div>
-
-
-
-
-
+---
 #### 🧬 Blockchain & Web3
 
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
@@ -125,14 +110,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     </a>
   </div>
 </div>
-
-
-
-
-
- 
-
-
+---
 #### ☁️ DevOps / Infra
 
 <div style="border: 2px solid #ccc; border-radius: 8px; padding: 15px; max-width: 100%; display: inline-block;">
@@ -154,10 +132,6 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
     </a>
   </div>
 </div>
-
-
-
-
 ---
 
 ### 💼 Principais Projetos
