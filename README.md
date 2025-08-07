@@ -27,7 +27,7 @@ Sou um desenvolvedor Full Stack apaixonado por criar **soluções completas**: f
 
 - 🚀 Criador da **Oberion Chain** (blockchain PoS própria com Geth e Teku)
 - 🔐 Especialista em **wallets Web3**, integração de gateways e segurança de transações
-- ⚡ Alta experiência com **transações, swaps, NFTs e PoS infra**
+- ⚡ Alta experiência com **transações, swaps, NFTs e PoS, PoA infra**
 - 🔄 Arquiteturas escaláveis com Redis, JWT, filas, microserviços, cache e criptografia
 - 🛠️ Metodologias ágeis, GitFlow, testes e versionamento
 
